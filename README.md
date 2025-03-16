@@ -9,5 +9,5 @@
 - **Dimension Tables** – Understanding **conformed, junk, degenerate, role-playing, and slowly changing dimensions (SCDs)**.  
 - **Hands-on SQL in Databricks** – Practical guidance on **workspace setup, query execution, and data management**.  
     
-
+### **Dowload HTML file to see the code** 
 #DataWarehousing #ETL #DimensionalModeling #Databricks #SQL #DataEngineering
